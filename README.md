@@ -1,5 +1,5 @@
 # kp_challenges
-**Directory** :  ** Files**  
+**Directory** :  ** Contains**  
 
 Challenge 1 : There are details related to three tier environment creation in Readme file (Word Doc) within th challenge 1 directory along with zthe Terraform code files. It is mandatory to go through the document to get more clarity on the implementation part.
 
